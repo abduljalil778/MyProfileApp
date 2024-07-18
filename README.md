@@ -20,6 +20,7 @@ My Profile is a Simple Flutter App has a three pages that showcase my personal i
 <p>
   <img alt="Home Page" src="img/home.png" width="250"/>
   <img alt="Profile Page" src="img/profile.png" width="250"/>
+  <img alt="About Me Page" src="img/about.png" width="250"/>
 </p>
 
 ## Getting Started
