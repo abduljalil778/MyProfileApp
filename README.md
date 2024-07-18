@@ -12,8 +12,7 @@
 </div>
 
 ## About My Profile
-My Profile is a Simple Flutter App has a two pages that showcase my personal information and my Flutter development journey.
-The project was developed as a part of the TechVerse "Application Development" bootcamp.
+My Profile is a Simple Flutter App has a three pages that showcase my personal information
 
 
 ## Screenshots
